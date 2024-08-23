@@ -65,7 +65,7 @@ header nav ul li a {
 
 /* Seção Hero */
 .hero-section {
-    background: url('imagens/logo.jpg') no-repeat center center/cover;
+    background: url('imagens/capa.png') no-repeat center center/cover;
     height: 200%;
     padding: 2rem 0;
     color: #042002;
